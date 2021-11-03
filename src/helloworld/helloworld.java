@@ -5,6 +5,7 @@ public class helloworld {
 	System.out.println("Hello world!");
 <<<<<<< Updated upstream
 	//Här är min kommentar
+	// SLUTA KOMMENTERA I MITT PROGRAM
 }
 }
 =======
